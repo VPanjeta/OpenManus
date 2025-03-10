@@ -1,19 +1,12 @@
-# Global LLM configuration
-[llm]
-model = "claude-3-5-sonnet"
-base_url = "https://api.openai.com/v1"
-api_key = "sk-..."
-max_tokens = 4096
-temperature = 0.0
 
-# [llm] #AZURE OPENAI:
-# api_type= 'azure'
-# model = "YOUR_MODEL_NAME" #"gpt-4o-mini"
-# base_url = "{YOUR_AZURE_ENDPOINT.rstrip('/')}/openai/deployments/{AZURE_DEPOLYMENT_ID}"
-# api_key = "AZURE API KEY"
+[llm]
+api_type= 'azure'
+model = "gpt-4o-mini"
+base_url = "https://ts-dev-001.openai.azure.com/openai/deployments/spotiq-gpt-4o"
+api_key = "bd8f92b6bcde4156b35ffd63838df2b4"
 # max_tokens = 8096
-# temperature = 0.0
-# api_version="AZURE API VERSION" #"2024-08-01-preview"
+temperature = 0.3
+api_version="2024-12-01-preview"
 
 # Optional configuration for specific LLM models
 [llm.vision]

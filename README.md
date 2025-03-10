@@ -1,8 +1,8 @@
 English | [中文](README_zh.md)
 
-[![GitHub stars](https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social)](https://github.com/mannaandpoem/OpenManus) &ensp;
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &ensp;
-[![Discord Follow](https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat)](https://discord.gg/DYn29wFk9z)
+[![GitHub stars](https://img.shields.io/github/stars/mannaandpoem/OpenManus?style=social)](https://github.com/gregpr07/browser-use/stargazers) &ensp;
+[![Twitter Follow](https://img.shields.io/twitter/follow/openmanus?style=social)](https://twitter.com/openmanus) &ensp;
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # 👋 OpenManus
 
@@ -22,6 +22,14 @@ We're also excited to introduce [OpenManus-RL](https://github.com/OpenManus/Open
 ## Project Demo
 
 <video src="https://private-user-images.githubusercontent.com/61239030/420168772-6dcfd0d2-9142-45d9-b74e-d10aa75073c6.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEzMTgwNTksIm5iZiI6MTc0MTMxNzc1OSwicGF0aCI6Ii82MTIzOTAzMC80MjAxNjg3NzItNmRjZmQwZDItOTE0Mi00NWQ5LWI3NGUtZDEwYWE3NTA3M2M2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA3VDAzMjIzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiZjFkNjlmYWNjMmEzOTliM2Y3M2VlYjgyNDRlZDJmOWE3NWZhZjE1MzhiZWY4YmQ3NjdkNTYwYTU5ZDA2MzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UuHQCgWYkh0OQq9qsUWqGsUbhG3i9jcZDAMeHjLt5T4" data-canonical-src="https://private-user-images.githubusercontent.com/61239030/420168772-6dcfd0d2-9142-45d9-b74e-d10aa75073c6.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEzMTgwNTksIm5iZiI6MTc0MTMxNzc1OSwicGF0aCI6Ii82MTIzOTAzMC80MjAxNjg3NzItNmRjZmQwZDItOTE0Mi00NWQ5LWI3NGUtZDEwYWE3NTA3M2M2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA3VDAzMjIzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiZjFkNjlmYWNjMmEzOTliM2Y3M2VlYjgyNDRlZDJmOWE3NWZhZjE1MzhiZWY4YmQ3NjdkNTYwYTU5ZDA2MzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.UuHQCgWYkh0OQq9qsUWqGsUbhG3i9jcZDAMeHjLt5T4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px"></video>
+
+## Features
+
+- **PythonExecute**: Run Python code locally for automation and data processing
+- **AzureCodeInterpreter**: Execute Python code securely in isolated Azure environments
+- **GoogleSearch**: Retrieve information from the web
+- **BrowserUseTool**: Open and interact with web browsers
+- **FileSaver**: Save files locally
 
 ## Installation
 
@@ -141,6 +149,10 @@ After comprehensively gathering feedback from community members, we have decided
 - [ ] Frontend/backend development to improve user experience
 
 ## Community Group
+Join our discord group
+
+[![Discord Follow](https://dcbadge.vercel.app/api/server/https://discord.gg/jkT5udP9bw?style=flat)](https://discord.gg/jkT5udP9bw) &ensp;
+
 Join our networking group on Feishu and share your experience with other developers!
 
 <div align="center" style="display: flex; gap: 20px;">
@@ -157,3 +169,18 @@ Thanks to [anthropic-computer-use](https://github.com/anthropics/anthropic-quick
 and [browser-use](https://github.com/browser-use/browser-use) for providing basic support for this project!
 
 OpenManus is built by contributors from MetaGPT. Huge thanks to this agent community!
+
+## Azure Code Interpreter
+
+OpenManus includes support for Azure Code Interpreter, which provides secure isolated environments for executing Python code. This is particularly useful for:
+
+- Running untrusted code safely
+- Executing computationally intensive tasks
+- Working with data science and machine learning libraries
+- Maintaining session state between code executions
+
+For setup instructions and usage examples, see the [Azure Code Interpreter documentation](docs/azure_code_interpreter.md).
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
